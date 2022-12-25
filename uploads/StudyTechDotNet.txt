@@ -1,0 +1,122 @@
+MyBas study :
+
+1/ Logo project : Biểu tượng web (hình cầu)
+2/ Công nghệ sử dụng : EntityFramework (Tương đương Hibernate), Linq (Tương đương Stream API), ASP.Net (Tương đương Spring)
+3/ Cấu trúc thư mục gồm :
+	+ App_Data
+	+ App_Start
+	+ Assets
+	+ Content
+	+ Controllers
+	+ Filters
+	+ Images
+	+ Models
+	+ Scripts
+	+ Utils
+	+ Views
+	
+---------------------------------------
+Server SQL Local : sa/12345678
+	
+---------------------------------------
+
+Khóa học : Lập trình ASP.NET Core từ cơ bản đến nâng cao
+
+	...
+	10. Làm việc với file cấu hình ASP.NET Core  --> OK
+	...
+	20. View trong ASP.NET Core  --> OK
+	...
+	27. Strongly Typed View  --> OK
+	...
+	
+-------------------------------------------
+
+			Khóa học số 2 : Làm dự án với ASP.NET Core 3.1
+
+1/ Giới thiệu về khóa học  --> OK
+2/ Cài đặt môi trường phát triển  --> OK
+3/ Tạo solution và Source code repository  --> OK
+4/ Tạo solution structure  --> OK
+5/ Thiết kế chức năng  --> OK
+6/ Thiết kế cơ sở dữ liệu  --> OK
+7/ Tạo Entity class và cài đặt EntityFramework Core  --> OK
+8/ Cấu hình entity với Fluent API  --> OK
+9/ Migration database  --> OK
+10/ Data seeding  --> OK
+
+11/ Thêm bảng cho ASP.NET Core Identity
+12/ Xây dựng cấu trúc tầng Application
+13/ Xây dựng phương thức phân trang
+14/ Phương thức cập nhật sản phẩm
+15/ Thêm bảng hình ảnh sản phẩm
+16/ Phương thức quản lý ảnh
+17/ Tạo Web API Project
+18/ Thêm Swagger cho Web API
+19/ Tạo RESTful API cho Product
+20/ API Quản lý ảnh
+21/ Tạo API đăng nhập và đăng ký
+22/ Thêm Authorization header cho Swagger
+23/ Sử dụng Fluent Validation
+24/ Tạo ứng dụng Admin và thêm Template
+25/ Tạo trang đăng nhập admin
+26/ Chứng thực với Cookie không dùng ASP.NET Identity
+27/ Lấy danh sách user
+28/ Tạo mới user
+29/ Cập nhật người dùng
+30/ Phân trang danh sách user
+31/ Xóa người dùng
+32/ Tìm kiếm danh sách user
+33/ Thông báo message sử dụng TempData
+34/ Gán quyền cho user
+35/ Cài đặt ngôn ngữ mặc định cho quản trị
+36/ Danh sách sản phẩm admin
+37/ Form tạo mới sản phẩm
+38/ Tích hợp CK Editor
+39/ Dùng dropdown để filter sản phẩm theo danh mục
+40/ Sử dụng LEFT JOIN và gán sản phẩm vào danh mục
+41/ Bắt đầu xây dựng website
+42/ Cơ chế đa ngôn ngữ cho website
+43/ Load dữ liệu ra trang chủ
+44/ ..
+45/ Cập nhật sản phẩm
+46/ Hiển thị danh mục sản phẩm
+47/ Hiển thị chi tiết sản phẩm
+48/ Bug fix
+49/ Đăng nhập cho webportal
+50/ Đăng ký thành viên
+51/ Thêm sản phẩm vào giỏ hàng
+52/ Liệt kê sản phẩm trong giỏ hàng
+53/ Cập nhật giỏ hàng
+54/ Checkout giỏ hàng tạo order
+55/ Deploy project lên IIS
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

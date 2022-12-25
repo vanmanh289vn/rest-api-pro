@@ -1,0 +1,29 @@
+
+
+
+Lesson 14 : 
+
+Các issue gặp phải :
+
+1/ Đang không có hàm getCurrentLoginUser trong backend
+	--> Có cần tham số id hay không để có thể get được user đúng
+	
+	--> Thực ra trong api login trả về của backend đã có thể return về đc 1 đối tượng User đầy đủ cho frontend 
+	--> có nên tận dụng điều này để ko cần sử dụng getCurrentLoginUser nữa  --> thử làm theo phương án này trước nhé ..
+	Nếu không được thì mới tính đến phương án dùng id để getCurrentLoginUser
+	
+	Nếu dùng phương án lấy id thì cần chỉnh lại chỗ reducers để nó update được cái id trong user 
+	--> từ đó chỉ việc gọi ra để lấy giá trị id cho việc getCurrentLoginUser
+	
+	--> Cần phải đồng bộ user dưới backend và user trên frontend
+	
+	
+	
+	
+2/ setAuthToken đang gặp vấn đề với headers : 'x-auth-token' hay 'Authorization'
+	--> Thử sửa dưới code backend thành 'x-auth-token' và test lại xem ok không nhé? nếu được thì apply cho đồng bộ với frontend
+	
+	
+	--> Đã xử lý xong bằng cách sửa trong backend để dùng 'x-auth-token' thay cho 'Authorization'
+	
+3/ 
